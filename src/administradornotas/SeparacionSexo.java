@@ -42,7 +42,10 @@ public class SeparacionSexo extends Alumno {
     }
     
     //Metodo para separar los sexos
+<<<<<<< HEAD
     @Override
+=======
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
     public void SepSexo(){
         String tipo= this.getSexo();
         ArrayList guardarF = new ArrayList();

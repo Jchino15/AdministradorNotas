@@ -62,7 +62,11 @@ public class datosCurso extends Curso{
     }
     
     
+<<<<<<< HEAD
     public void buenProfesor()
+=======
+    public void temasCurso()
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
     {
         if(getTemas() >= 16)
         {

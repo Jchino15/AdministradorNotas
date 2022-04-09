@@ -4,8 +4,11 @@
  */
 package administradornotas;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 
+=======
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
 /**
  *
  * @author Miguel Zelaya
@@ -68,6 +71,7 @@ public class CaractetristicasAlumno extends Alumno {
         }
         
     }
+<<<<<<< HEAD
     @Override
     public void datos()
     {
@@ -81,6 +85,9 @@ public class CaractetristicasAlumno extends Alumno {
     }
     //Metodo para saber la salud del alumno 
     @Override
+=======
+    //Metodo para saber la salud del alumno 
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
     public void Salud()
         {
             double IMC=getPeso()/(getAltura()*getAltura());
@@ -97,5 +104,8 @@ public class CaractetristicasAlumno extends Alumno {
                 System.out.println("Tiene Sobrepeso");
             }
         }
+<<<<<<< HEAD
     
+=======
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
 }

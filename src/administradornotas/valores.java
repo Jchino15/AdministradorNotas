@@ -4,14 +4,26 @@
  */
 package administradornotas;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
+=======
+<<<<<<< HEAD
+import java.util.Scanner;
+
+=======
+>>>>>>> bc449767fd6cb2fa8ae1717be3e7a2d99fbdaeb4
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
 /**
  *
  * @author josue
  */
 public class valores implements comparar{
     
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
      public valores(){
         
     }
@@ -71,3 +83,22 @@ public class valores implements comparar{
     }
 }
 
+<<<<<<< HEAD
+=======
+=======
+    public valores(){
+        
+    }
+
+    @Override
+    public void mayornota(){
+        System.out.print("El primer numero es el mayor");
+    }
+    
+    @Override
+    public void menornota(){
+        System.out.print("El primer numero es el menor");
+    }
+}
+>>>>>>> bc449767fd6cb2fa8ae1717be3e7a2d99fbdaeb4
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d

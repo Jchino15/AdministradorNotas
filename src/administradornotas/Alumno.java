@@ -166,6 +166,7 @@ public class Alumno {
         this.seccion = seccion;
     }
      public void datos(){
+<<<<<<< HEAD
         
     }
     
@@ -177,6 +178,16 @@ public class Alumno {
      {
          
      }
+=======
+        ArrayList info = new ArrayList();
+        info.add("Gerson");
+        info.add("Argueta");
+        info.add("18");
+        info.add("15641216-4");
+        System.out.println("Su información es: ");
+        System.out.println(info);
+    }
+>>>>>>> 41104876fab11aa88008c08af0d98900d6864a5d
 
     
 }
