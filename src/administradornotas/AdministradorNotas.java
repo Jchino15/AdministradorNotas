@@ -41,8 +41,13 @@ public class AdministradorNotas {
         Alumno objAlumno[]=new Alumno[1]; 
         objAlumno[0]=objcaracteristicasA;
         
+<<<<<<< HEAD
         //cast 
         Alumno newAlumno = (Alumno) objAlumno[0]; 
+=======
+        //Cast
+        Alumno newAlumno = (Alumno) objAlumno[0];
+>>>>>>> 0804b5c1b06c8b030262df6349cdf5fb58f98a99
         
         objAlumno[0].Salud();
         objAlumno[0].datos();
